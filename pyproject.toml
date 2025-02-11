@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "A simple Python package for geometric shapes"
 readme = "README.md"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Lightbridge-KS", email = "ki11ip0.s.a.s@gmail.com"},
 ]
 license = {text = "MIT"}
 classifiers = [
@@ -21,5 +21,5 @@ dependencies = []
 requires-python = ">=3.7"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/pyshape"
-Repository = "https://github.com/yourusername/pyshape.git" 
+Homepage = "https://github.com/Lightbridge-KS/pyshape"
+Repository = "https://github.com/Lightbridge-KS/pyshape.git"  
